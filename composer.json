@@ -1,5 +1,5 @@
 {
-    "name": "hello",
+    "name": "superb80s/hello",
     "require": {
         "monolog/monolog": "~1.11"
     }
